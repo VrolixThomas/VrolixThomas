@@ -89,8 +89,8 @@ motto: "Code with passion, debug with patience"
 <table>
 <tr>
 <td width="50%">
-<h3><a href="https://github.com/VrolixThomas/SlackBot">🤖 SlackBot</a></h3>
-<p>Intelligent Slack bot for team automation and productivity</p>
+<h3><a href="https://github.com/VrolixThomas/SuperiorSwarm">SuperiorSwarm</a></h3>
+<p>Agent centric development tool that allows you to work on multiple worktrees simultaneously with integrated PR reviewer and solver. Connected with GitHub/Bitbucket and Linear/Jira</p>
 <p>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
