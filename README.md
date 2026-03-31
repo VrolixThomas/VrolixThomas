@@ -7,14 +7,14 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ASCII Art Banner -->
-```ascii
+<pre>
 ████████╗██╗  ██╗ ██████╗ ███╗   ███╗ █████╗ ███████╗
 ╚══██╔══╝██║  ██║██╔═══██╗████╗ ████║██╔══██╗██╔════╝
    ██║   ███████║██║   ██║██╔████╔██║███████║███████╗
    ██║   ██╔══██║██║   ██║██║╚██╔╝██║██╔══██║╚════██║
    ██║   ██║  ██║╚██████╔╝██║ ╚═╝ ██║██║  ██║███████║
    ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝
-```
+</pre>
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=VrolixThomas&label=Profile%20Views&color=00f2ff&style=for-the-badge" alt="Profile Views" />
@@ -90,9 +90,14 @@ motto: "Code with passion, debug with patience"
 <tr>
 <td width="50%">
 <h3><a href="https://github.com/VrolixThomas/SuperiorSwarm">SuperiorSwarm</a></h3>
-<p>Agent centric development tool that allows you to work on multiple worktrees simultaneously with integrated PR reviewer and solver. Connected with GitHub/Bitbucket and Linear/Jira</p>
+<p>Native macOS desktop app that unifies Git workflow management, terminal multiplexing, and AI-powered code review automation. Features automatic PR detection with AI agent driven reviews, intelligent comment solving, and seamless integration with GitHub, Bitbucket, Jira, and Linear, all in a multi-workspace terminal interface.</p>
 <p>
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" />
+<img src="https://img.shields.io/badge/React_19-20232A?style=flat&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/tRPC-2596BE?style=flat&logo=trpc&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
 </p>
 </td>
 <td width="50%">
@@ -155,11 +160,11 @@ motto: "Code with passion, debug with patience"
 ---
 
 <!-- Footer -->
-```ascii
+<pre>
 ╔═══════════════════════════════════════════════════════════════╗
 ║  Code is like humor. When you have to explain it, it's bad.   ║
 ╚═══════════════════════════════════════════════════════════════╝
-```
+</pre>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
