@@ -93,7 +93,6 @@ motto: "Code with passion, debug with patience"
 <p>Agent centric development tool that allows you to work on multiple worktrees simultaneously with integrated PR reviewer and solver. Connected with GitHub/Bitbucket and Linear/Jira</p>
 <p>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
 </p>
 </td>
 <td width="50%">
